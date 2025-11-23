@@ -32,7 +32,7 @@ export default function HomeScreen() {
       <Stack.Screen
         options={{
           headerShown: true,
-          title: "Início",
+          title: "Too Good To Go Escolar",
           headerLargeTitle: true,
           headerLeft: () => (
             <Image
